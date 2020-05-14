@@ -4,3 +4,9 @@
 <p>
     <em>Figure 1. Hard Mish Activation Function</em>
 </p>
+
+### CIFAR-10: 
+
+|Architecture|Swish|H-Mish|Mish|ReLU|
+|:---:|:---:|:---:|:---:|:---:|
+|ResNet-20|90.42%|92.57%|**92.68%**|91.8%|
