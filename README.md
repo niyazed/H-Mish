@@ -1,6 +1,6 @@
 # H-Mish
 
-*Code will be released soon*
+*Tensorflow Implementation of H-Mish'
 
 Formula - *(x/2).min(2, max(0, x+2))*
 
